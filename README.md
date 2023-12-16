@@ -11,10 +11,10 @@ https://sonic3air.boards.net/thread/375/new-update-extra-slot-ashura
 Only one atm  lol
 
 # SOCIALS
-Discord:s3airforever
-Tiktok: https://www.tiktok.com/@sonic.bluespeed
-Twitch: sonicboiguy
-Twitter https://twitter.com/sonicblues78118
+  Discord:s3airforever
+  Tiktok: https://www.tiktok.com/@sonic.bluespeed
+  Twitch: sonicboiguy
+  Twitter https://twitter.com/sonicblues78118
 
 
 
