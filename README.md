@@ -4,7 +4,10 @@ This is my first website I'm just testing some stuff
  
  # ART
 
-![Screenshot_20231213-160135](https://github.com/sonic-blue-speed/sonic-blue-speed.github.io/assets/130621110/ef643524-923a-44af-9982-da31c00f4a3d)
+
+
+![Screenshot_20231213-160135 (1)](https://github.com/sonic-blue-speed/sonic-blue-speed.github.io/assets/130621110/1caae88e-c8b6-41bd-bc0e-f9afa11e68c5)
+
 
 ![Drawing_5_18 (3)](https://github.com/sonic-blue-speed/sonic-blue-speed.github.io/assets/130621110/eb9eb78c-4497-46a3-a0e1-d852df505e24)
 
