@@ -21,7 +21,7 @@ Only one atm  lol
 # SOCIALS
   
  
-  Discord:s3airforever
+  Discord: s3airforever
   
   
   
