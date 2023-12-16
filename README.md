@@ -2,7 +2,9 @@
 This is my first website I'm just testing some stuff
  I'll add my art, mods, and socials
  
- # ART
+ #ART
+
+
 ![Screenshot_20231213-160135 (1)](https://github.com/sonic-blue-speed/sonic-blue-speed.github.io/assets/130621110/1caae88e-c8b6-41bd-bc0e-f9afa11e68c5)
 
 
