@@ -2,7 +2,7 @@
 This is my first website I'm just testing some stuff
  I'll add my art, mods, and socials
  
- #  ART
+ #  ART BECAUSE YES
 
 
 
